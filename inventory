@@ -1,0 +1,20 @@
+[nagios_centos]
+192.168.56.128 ansible_user=auds
+
+[elk_centos]
+192.168.56.128 ansible_user=auds
+
+[elk_ubuntu]
+192.168.56.122 ansible_user=aud
+
+[igp_centos]
+192.168.56.128 ansible_user=auds
+
+[igp_ubuntu]
+192.168.56.122 ansible_user=aud
+
+[ls_centos]
+192.168.56.128 ansible_user=auds
+
+[ls_ubuntu]
+192.168.56.122 ansible_user=aud
